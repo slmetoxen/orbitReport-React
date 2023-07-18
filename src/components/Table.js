@@ -3,6 +3,7 @@ const Table = ({ sat }) => {
       <table>
        <thead>
         <tr>
+          <th>To be deleted</th>
           <th>Name</th>
           <th>Type of Satellite</th>
           <th>Launch Date</th>
